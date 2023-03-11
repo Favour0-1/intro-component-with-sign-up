@@ -1,0 +1,30 @@
+.all-form-body{ 
+    background: hsl(0, 63%, 66%);
+    height: 100vh;
+}
+
+.bld{
+    font-family: 'Poppins', sans-serif;
+    @import "~bootstrap/scss/bootstrap";
+}
+
+.col-left{
+    margin-top: 13rem;
+}
+
+.col-right-up{
+    margin-top: 7rem;
+}
+
+.col-right-down{
+    margin-top: 0.5rem;
+    border-radius: 1rem;
+}
+
+.color-bl-pu{
+    background:hsl(250, 40%, 41%);
+}
+
+.reduce{
+    font-size: 12px;
+}
